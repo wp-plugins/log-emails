@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: log-emails\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-08-16 18:37+1000\n"
-"PO-Revision-Date: 2014-08-16 18:38+1000\n"
+"POT-Creation-Date: 2014-08-21 08:14+1000\n"
+"PO-Revision-Date: 2014-08-21 08:14+1000\n"
 "Last-Translator: Ross McKay <rmckay@webaware.com.au>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -22,30 +22,30 @@ msgstr ""
 "X-Generator: Poedit 1.5.4\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: ../includes/class.LogEmailsPlugin.php:100
-#: ../includes/class.LogEmailsPlugin.php:106
+#: ../includes/class.LogEmailsPlugin.php:96
+#: ../includes/class.LogEmailsPlugin.php:102
 msgid "*** password redacted ***"
 msgstr ""
 
-#: ../includes/class.LogEmailsPlugin.php:182
+#: ../includes/class.LogEmailsPlugin.php:175
 msgid "Get Help"
 msgstr ""
 
-#: ../includes/class.LogEmailsPlugin.php:183
+#: ../includes/class.LogEmailsPlugin.php:176
 msgid "Rating"
 msgstr ""
 
-#: ../includes/class.LogEmailsPlugin.php:184
+#: ../includes/class.LogEmailsPlugin.php:177
 msgctxt "translate from English"
 msgid "Translate"
 msgstr ""
 
-#: ../includes/class.LogEmailsPlugin.php:197
+#: ../includes/class.LogEmailsPlugin.php:190
 msgctxt "maximum days to keep email logs"
 msgid "Log limit"
 msgstr ""
 
-#: ../includes/class.LogEmailsPlugin.php:201
+#: ../includes/class.LogEmailsPlugin.php:194
 msgid "number of days to keep email logs"
 msgstr ""
 
